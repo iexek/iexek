@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+### Hi there!
 
 <!--
 **iexek/iexek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
